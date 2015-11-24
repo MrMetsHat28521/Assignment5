@@ -3,3 +3,4 @@ For assignment 5
 
 Name Calvin Shin
 Year Freshman
+Major Computer Science
